@@ -1,0 +1,23 @@
+body{
+    background-color:#F7F1D8;
+    margin: auto;
+}
+
+.body-container {
+    max-width: 600px;
+        margin: 20px auto;
+        background-color:#E66B3D;
+        padding: 20px;
+        border-radius: 30px;
+}
+h1 {
+    text-align: center;
+    color:#F1E8D7 ;
+}
+
+.me-photo {
+    display: block;
+    margin: auto;
+    max-width: 40%;
+    max-height: 25;
+}
